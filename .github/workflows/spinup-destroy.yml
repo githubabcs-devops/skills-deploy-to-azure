@@ -8,7 +8,7 @@ env:
   IMAGE_REGISTRY_URL: ghcr.io
   AZURE_RESOURCE_GROUP: rg-gh-cd-with-actions
   AZURE_APP_PLAN: asp-gh-actions-ttt-deployment
-  AZURE_LOCATION: '"Central US"'
+  AZURE_LOCATION: '"Central Central"'
   AZURE_WEBAPP_NAME: app-calinl-ttt-app
 
 jobs:
